@@ -10,3 +10,9 @@ To run this Project follow the steps:
 4) Run Test Script one by one.
 5) Analyze the Result.
 
+
+Atteched Files:
+1) AmazonTesting (Eclipse Project).
+2) Project Report(.dox & .pdf)
+3) Test Cases. (.xlsx)
+4) Output Screenshots.
