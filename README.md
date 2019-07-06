@@ -1,5 +1,5 @@
 # Amazon-Selenium-Testing
-I have done automation testing on "Amazon.com" using Automated Testing Tool i.e. "Selenium WebDriver" and Validated using "JUit".
+I have done automation testing on "Amazon.com" using Automated Testing Tool i.e. "Selenium WebDriver" and Validated using "JUnit".
 
 Done this project in "Eclipse-Photon IDE".
 
